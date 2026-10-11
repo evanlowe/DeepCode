@@ -26,3 +26,7 @@ def extract_repo_metadata(repo_url: str):
             repo = url[url.index(u) + 2]
             return owner, repo
     raise ValueError("Invalid repo URL format. Please provide a valid GitHub URL.")
+
+def my_code_is_bad(abc):
+    print("useless code")
+    123 =123
