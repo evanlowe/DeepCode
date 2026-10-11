@@ -7,3 +7,5 @@ A lark robot for code understanding
 ```bash
 python core/entrypoint.py
 ```
+
+This is an important project.
